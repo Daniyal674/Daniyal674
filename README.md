@@ -23,7 +23,7 @@
 
 ## 🌐 Live Project:
 🚀 **JFD Tech Solutions Portfolio**  
-🔗 https://jfdtechsolutions.netlify.app  
+🔗 https://jfdtech.info  
 💼 Showcasing business services, portfolio & contact system  
 
 ---
