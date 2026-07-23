@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C7B7&center=true&vCenter=true&width=600&lines=Junior+Developer;Flutter+App+Developer;Web+Developer+(PHP+%7C+Python);Open+to+Collaboration"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Daniyal%20Ahsan&fontSize=40&fontColor=ffffff"/>
 </p>
 
-# Daniyal Ahsan
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C7B7&center=true&vCenter=true&width=600&lines=Junior+Developer;Flutter+App+Developer;Web+Developer+(PHP+%7C+Python);Open+to+Collaboration"/>
+</p>
 
 Junior developer building real-world apps with Flutter and PHP/Python. Learning fast, shipping small projects, open to mentorship and collaboration.
 
@@ -38,4 +40,13 @@ Junior developer building real-world apps with Flutter and PHP/Python. Learning 
   <a href="https://instagram.com/dani_yal1191">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniyal674&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniyal674&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal674&theme=tokyonight&layout=compact&hide_border=true"/>
 </p>
